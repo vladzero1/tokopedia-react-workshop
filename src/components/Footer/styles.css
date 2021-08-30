@@ -1,0 +1,13 @@
+.footer{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 2rem 1rem;
+  color: white;
+  font-size: 1rem;
+  background-color: #bf13f8;
+}
+
+.footer-link{
+  color: #ffffff;
+}
